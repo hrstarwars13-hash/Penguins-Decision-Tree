@@ -1,0 +1,331 @@
+{
+  "tree": {
+    "feature": "flipper_length_mm",
+    "threshold": 206.5,
+    "left": {
+      "feature": "bill_length_mm",
+      "threshold": 43.35000038146973,
+      "left": {
+        "is_leaf": true,
+        "pred": 0
+      },
+      "right": {
+        "is_leaf": true,
+        "pred": 1
+      },
+      "is_leaf": false
+    },
+    "right": {
+      "is_leaf": true,
+      "pred": 2
+    },
+    "is_leaf": false
+  },
+  "balls": [
+    {
+      "features": [
+        39.5,
+        16.7,
+        178.0,
+        3250.0
+      ],
+      "true_species": 0,
+      "pred_species": 0
+    },
+    {
+      "features": [
+        50.9,
+        17.9,
+        196.0,
+        3675.0
+      ],
+      "true_species": 1,
+      "pred_species": 1
+    },
+    {
+      "features": [
+        42.1,
+        19.1,
+        195.0,
+        4000.0
+      ],
+      "true_species": 0,
+      "pred_species": 0
+    },
+    {
+      "features": [
+        46.6,
+        14.2,
+        210.0,
+        4850.0
+      ],
+      "true_species": 2,
+      "pred_species": 2
+    },
+    {
+      "features": [
+        41.1,
+        18.2,
+        192.0,
+        4050.0
+      ],
+      "true_species": 0,
+      "pred_species": 0
+    },
+    {
+      "features": [
+        54.2,
+        20.8,
+        201.0,
+        4300.0
+      ],
+      "true_species": 1,
+      "pred_species": 1
+    },
+    {
+      "features": [
+        50.3,
+        20.0,
+        197.0,
+        3300.0
+      ],
+      "true_species": 1,
+      "pred_species": 1
+    },
+    {
+      "features": [
+        48.4,
+        16.3,
+        220.0,
+        5400.0
+      ],
+      "true_species": 2,
+      "pred_species": 2
+    },
+    {
+      "features": [
+        49.5,
+        16.2,
+        229.0,
+        5800.0
+      ],
+      "true_species": 2,
+      "pred_species": 2
+    },
+    {
+      "features": [
+        45.1,
+        14.4,
+        210.0,
+        4400.0
+      ],
+      "true_species": 2,
+      "pred_species": 2
+    },
+    {
+      "features": [
+        42.9,
+        17.6,
+        196.0,
+        4700.0
+      ],
+      "true_species": 0,
+      "pred_species": 0
+    },
+    {
+      "features": [
+        34.6,
+        21.1,
+        198.0,
+        4400.0
+      ],
+      "true_species": 0,
+      "pred_species": 0
+    },
+    {
+      "features": [
+        42.5,
+        17.3,
+        187.0,
+        3350.0
+      ],
+      "true_species": 1,
+      "pred_species": 0
+    },
+    {
+      "features": [
+        36.8,
+        18.5,
+        193.0,
+        3500.0
+      ],
+      "true_species": 0,
+      "pred_species": 0
+    },
+    {
+      "features": [
+        46.5,
+        17.9,
+        192.0,
+        3500.0
+      ],
+      "true_species": 1,
+      "pred_species": 1
+    },
+    {
+      "features": [
+        37.0,
+        16.5,
+        185.0,
+        3400.0
+      ],
+      "true_species": 0,
+      "pred_species": 0
+    },
+    {
+      "features": [
+        36.2,
+        17.2,
+        187.0,
+        3150.0
+      ],
+      "true_species": 0,
+      "pred_species": 0
+    },
+    {
+      "features": [
+        46.1,
+        13.2,
+        211.0,
+        4500.0
+      ],
+      "true_species": 2,
+      "pred_species": 2
+    },
+    {
+      "features": [
+        36.7,
+        18.8,
+        187.0,
+        3800.0
+      ],
+      "true_species": 0,
+      "pred_species": 0
+    },
+    {
+      "features": [
+        46.6,
+        17.8,
+        193.0,
+        3800.0
+      ],
+      "true_species": 1,
+      "pred_species": 1
+    },
+    {
+      "features": [
+        42.7,
+        18.3,
+        196.0,
+        4075.0
+      ],
+      "true_species": 0,
+      "pred_species": 0
+    },
+    {
+      "features": [
+        40.7,
+        17.0,
+        190.0,
+        3725.0
+      ],
+      "true_species": 0,
+      "pred_species": 0
+    },
+    {
+      "features": [
+        48.1,
+        16.4,
+        199.0,
+        3325.0
+      ],
+      "true_species": 1,
+      "pred_species": 1
+    },
+    {
+      "features": [
+        46.5,
+        14.4,
+        217.0,
+        4900.0
+      ],
+      "true_species": 2,
+      "pred_species": 2
+    },
+    {
+      "features": [
+        38.9,
+        17.8,
+        181.0,
+        3625.0
+      ],
+      "true_species": 0,
+      "pred_species": 0
+    },
+    {
+      "features": [
+        38.6,
+        17.0,
+        188.0,
+        2900.0
+      ],
+      "true_species": 0,
+      "pred_species": 0
+    },
+    {
+      "features": [
+        46.8,
+        14.3,
+        215.0,
+        4850.0
+      ],
+      "true_species": 2,
+      "pred_species": 2
+    },
+    {
+      "features": [
+        50.2,
+        18.8,
+        202.0,
+        3800.0
+      ],
+      "true_species": 1,
+      "pred_species": 1
+    },
+    {
+      "features": [
+        49.2,
+        15.2,
+        221.0,
+        6300.0
+      ],
+      "true_species": 2,
+      "pred_species": 2
+    },
+    {
+      "features": [
+        49.3,
+        19.9,
+        203.0,
+        4050.0
+      ],
+      "true_species": 1,
+      "pred_species": 1
+    }
+  ],
+  "species_map": {
+    "0": "Adelie",
+    "1": "Chinstrap",
+    "2": "Gentoo"
+  }
+}
